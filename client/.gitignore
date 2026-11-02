@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+
+.env
+.env.*
+!.env.example
+
+client/dist/
+server/dist/
+
+*.log
+.vscode/
+.idea/
+.DS_Store
